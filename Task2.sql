@@ -552,7 +552,7 @@ select * from view_teacher_info
 
 
 -------------
---View 1 --
+--Report 1 --
 -------------
 drop view v_ethnicity_performance
 create view v_Ethnicity_Performance as
@@ -565,7 +565,7 @@ select * from v_Ethnicity_Performance
 
 
 --------------
--- View 2--
+-- Report 2--
 --------------
 drop view boys_girls_percentage
 create view boys_girls_percentage  as 
@@ -582,7 +582,7 @@ select * from boys_girls_percentage
 ----------------------------------
 
 --------------
--- View 3--
+-- Report 3--
 --------------
 
 drop view v_gender_and_living_location
